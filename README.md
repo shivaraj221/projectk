@@ -2,4 +2,4 @@
 new projects
 
 
-Click to visit website:  https://shivaraj221.github.io/projectk/
+Click to visit website:  https://github.com/shivaraj221/projectk.git
